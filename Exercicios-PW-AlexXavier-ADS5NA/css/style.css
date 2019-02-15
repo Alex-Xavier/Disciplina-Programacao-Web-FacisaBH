@@ -1,0 +1,31 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #FF0000;
+    font-family: Verdana;
+}
+
+h3{
+    text-align: center;
+}
+
+.Negrito{
+    font-weight: bold;
+}
+
+.Justificado{
+    text-align: justify;
+}
+
+.Italico{
+    font-style: italic;
+}
+
+.Sublinhado{
+    text-decoration: underline;
+    font-weight: bold;
+}
